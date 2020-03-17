@@ -1,0 +1,17 @@
+
+.about{
+	width: 100%;
+	height: 100%;
+	background: #FFFFFF;
+	padding: 25rpx;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+.about-head{
+	line-height: 50rpx;
+	color: #666666;
+	font-size: 22rpx;
+	text-indent: 2em;
+	margin-bottom: 20rpx;
+}
+

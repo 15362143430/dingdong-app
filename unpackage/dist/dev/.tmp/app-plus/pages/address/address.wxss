@@ -1,0 +1,14 @@
+
+.address{
+	width: 100%;
+	min-height: 100vh;
+	background: #FFFFFF;
+	position: relative;
+}
+.add-address{
+	position: absolute;
+	left: 0;
+	bottom: 50rpx;
+	width: 750rpx;
+}
+

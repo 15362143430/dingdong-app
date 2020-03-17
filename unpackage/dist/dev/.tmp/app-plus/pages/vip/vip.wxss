@@ -1,0 +1,128 @@
+
+.vip-head{
+	width: 100%;
+	height: 220rpx;
+	background: #1D2434;
+	padding: 46rpx 30rpx 0 30rpx;
+}
+.vip-head-box{
+	width: 100%;
+	height: 100%;
+	border-top: 4rpx solid #D3DC8E;
+	border-left: 4rpx solid #D3DC8E;
+	border-right: 4rpx solid #D3DC8E;
+	border-radius: 20rpx 20rpx 0rpx 0;
+	background: #33E97B;
+	text-align: center;
+	line-height: 176rpx;
+	font-size: 30rpx;
+}
+.vip-head-box text{
+	font-size: 36rpx;
+}
+/* 特权 */
+.vip-privilege{
+	width: 100%;
+	height: auto;
+	padding: 32rpx 30rpx 38rpx 30rpx;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	background: #FFFFFF;
+}
+.vip-privilege-name{
+	width: 100%;
+	height: 52rpx;
+	line-height: 52rpx;
+	font-size: 34rpx;
+	color: #383940;
+	font-weight: bold;
+	margin-bottom: 27rpx;
+}
+.vip-privilege-box{
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-justify-content: space-around;
+	    -ms-flex-pack: distribute;
+	        justify-content: space-around;
+	margin-bottom: 72rpx;
+}
+.vip-privilege-box-list{
+	width: 120rpx;
+	height: auto;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-flex-wrap: wrap;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.vip-privilege-box-list-img{
+	width: 78rpx;
+	height: 78rpx;
+	border-radius: 50%;
+	border: 1px solid #1E1E1E;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	margin-bottom: 10rpx;
+}
+.vip-privilege-box-list-img image{
+	width: 40rpx;
+	height: 40rpx;
+}
+.vip-privilege-box-list-name{
+	width: 100%;
+	height: 36rpx;
+	line-height: 36rpx;
+	font-size: 24rpx;
+	color: #2C2C2C;
+	text-align: center;
+}
+.vip-privilege-box-list-title{
+	width: 100%;
+	height: 30rpx;
+	line-height: 30rpx;
+	font-size: 20rpx;
+	color: #8B8B8B;
+	text-align: center;
+}
+.vip-privilege-btn{
+	width: 100%;
+	height: 92rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+}
+.vip-privilege-btn-centent{
+	width: 500rpx;
+	height: 92rpx;
+	background: #364153;
+	color: #34B364;
+	text-align: center;
+	line-height: 92rpx;
+	font-size: 30rpx;
+	border-radius: 49rpx;
+}
+

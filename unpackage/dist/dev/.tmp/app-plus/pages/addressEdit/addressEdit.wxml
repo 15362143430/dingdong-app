@@ -1,0 +1,1 @@
+<view><van-address-edit vue-id="1" area-list="{{areaList}}" address-info="{{address_info}}" show-delete search-result="{{searchResult}}" area-columns-placeholder="{{['请选择','请选择','请选择']}}" data-event-opts="{{[['^save',[['onSave']]],['^delete',[['onDelete']]]]}}" bind:save="__e" bind:delete="__e" bind:__l="__l"></van-address-edit></view>
